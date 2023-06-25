@@ -1,0 +1,172 @@
+{
+    "type": "Listening",
+    "category": "Człowiek",
+    "topic": "Rodzina",
+    "level": "A1",
+    "text": " Hi, I’m Linda. My family is great! I live with my mum, dad, and a little sister. We usually have dinner together and talk about everything. My mum is a good cook, and my dad tells funny stories. I have two older cousins who often visit us at the weekend.",
+    "exercises": [
+        {
+            "instruction": "Posłuchaj dwukrotnie nagrania na temat rodziny. W zadaniach od 1.1. do 1.5., na podstawie informacji zawartych w nagraniu, wybierz czy zdania są P - prawdziwe czy F - fałszywe. Zakreśl właściwą literę.",
+            "type": "PF",
+            "insides": [
+                {
+                    "number": " 1.",
+                    "question": " Linda thinks that her family is terrible.",
+                    "correct": "F"
+                },
+                {
+                    "number": "2",
+                    "question": " She can talk to her parents every day.",
+                    "correct": "P"
+                },
+                {
+                    "number": "3",
+                    "question": " Her family eats together once a day. ",
+                    "correct": "P"
+                },
+                {
+                    "number": "4",
+                    "question": " Linda is the youngest in the family.",
+                    "correct": "F"
+                },
+                {
+                    "number": "5",
+                    "question": " Her cousins always visit her at the weekend.",
+                    "correct": "F"
+                }
+            ]
+        },
+        {
+            "instruction": " Posłuchaj dwukrotnie nagrania na temat rodziny. W zadaniach od 2.1 do 2.5, na podstawie informacji zawartych w nagraniu, z podanych odpowiedzi wybierz właściwą. Zakreśl jedną z liter: A, B lub C.",
+            "type": "ABCD",
+            "insides": [
+                {
+                    "number": "1",
+                    "question": " How many people does Linda live with?",
+                    "possible": [
+                        {
+                            "name": "A",
+                            "value": "three"
+                        },
+                        {
+                            "name": "B",
+                            "value": "four"
+                        },
+                        {
+                            "name": "C",
+                            "value": "five"
+                        }
+                    ],
+                    "correct": "A"
+                },
+                {
+                    "number": "2",
+                    "question": "When do they usually spend time together?",
+                    "possible": [
+                        {
+                            "name": "A",
+                            "value": "at the weekends"
+                        },
+                        {
+                            "name": "B",
+                            "value": " in the mornings"
+                        },
+                        {
+                            "name": "C",
+                            "value": " in the afternoons"
+                        }
+                    ],
+                    "correct": "C"
+                },
+                {
+                    "number": "3",
+                    "question": " Who prepares meals in the family?",
+                    "possible": [
+                        {
+                            "name": "A",
+                            "value": " her mother"
+                        },
+                        {
+                            "name": "B",
+                            "value": " her father"
+                        },
+                        {
+                            "name": "C",
+                            "value": " Linda"
+                        }
+                    ],
+                    "correct": "A"
+                },
+                {
+                    "number": "4",
+                    "question": " What is Linda’s father like?",
+                    "possible": [
+                        {
+                            "name": "A",
+                            "value": "serious"
+                        },
+                        {
+                            "name": "B",
+                            "value": "hard-working"
+                        },
+                        {
+                            "name": "C",
+                            "value": "talkative"
+                        }
+                    ],
+                    "correct": "C"
+                },
+                {
+                    "number": "5",
+                    "question": " How often does Linda meet her cousins?",
+                    "possible": [
+                        {
+                            "name": "A",
+                            "value": "once a week"
+                        },
+                        {
+                            "name": "B",
+                            "value": "on weekdays"
+                        },
+                        {
+                            "name": "C",
+                            "value": "once a month"
+                        }
+                    ],
+                    "correct": "A"
+                }
+            ]
+        },
+        {
+            "instruction": "Posłuchaj dwukrotnie nagrania na temat rodziny. Na podstawie informacji zawartych w nagraniu, uzupełnij luki 3.1-3.5. w notatce, tak aby jak najbardziej precyzyjnie oddać sens wysłuchanego tekstu. Luki należy uzupełnić w języku angielskim, maksymalnie jednym wyrazem.",
+            "type": "open",
+            "insides": [
+                {
+                    "number": "1",
+                    "question": "Linda’s family \n My friend’s name is Linda. \n She has a ___ sister.",
+                    "correct": "young/younger/small/smaller"
+                },
+                {
+                    "number": "2",
+                    "question": "She also lives with her ___ .",
+                    "correct": "parents"
+                },
+                {
+                    "number": "3",
+                    "question": " Her mum can  ___ very well.",
+                    "correct": "cook"
+                },
+                {
+                    "number": "4",
+                    "question": " She is ___ than her cousins.",
+                    "correct": "younger"
+                },
+                {
+                    "number": "5",
+                    "question": " They visit her at the ___ .",
+                    "correct": "weekend/weekends"
+                }
+            ]
+        }
+    ]
+}
